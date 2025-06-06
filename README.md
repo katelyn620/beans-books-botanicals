@@ -4,4 +4,4 @@
 - take a book, leave a book (community library style), or used book store (thrift books and take donations)
 - sell plants (data on plant sales)
 
-- python and R
+- python, R, powerBI, tableau
