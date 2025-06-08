@@ -9,8 +9,8 @@ Pretending the data used comes from this hypothetical business, analysis is done
 - sell mugs, shirts, etc.  (merch if available)
 - take a book, leave a book (community library style), or used book store (thrift books and take donations)
 - sell plants (data on plant sales)  
-<br>
+<br> 
 - create a website  
-- build an app (mobile ordering food and drinks)
+- build an app (mobile ordering food and drinks) 
 <br><br>
 - python, R, powerBI, tableau
