@@ -5,7 +5,8 @@ Pretending the data used comes from this hypothetical business, analysis is done
 ## Checklist:
 - ~~roast and sell coffee (data on coffee sales)~~
 - ~~sell tea~~  
-- ~~sell pastries~~  
+- ~~sell pastries~~
+- separate coffee, tea, pastry data
 - sell mugs, shirts, etc.  (merch if available)
 - take a book, leave a book (community library style), or used book store (thrift books and take donations)
 - sell plants (data on plant sales)  <br> <br>
