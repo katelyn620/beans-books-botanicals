@@ -10,7 +10,7 @@ Pretending the data used comes from this hypothetical business, analysis is done
 - take a book, leave a book (community library style), or used book store (thrift books and take donations)
 - sell plants (data on plant sales)  
 <br>
-- create a website
+- create a website  
 - build an app (mobile ordering food and drinks)
 <br><br>
 - python, R, powerBI, tableau
