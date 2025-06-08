@@ -3,14 +3,14 @@
 Pretending the data used comes from this hypothetical business, analysis is done on coffee, book, plant, and other merchandise sales. R and Python are used for data analysis/visualization, and Power BI and Tableau are used for additional professional visualization. A website has been created for this hypothetical business, and an app for mobile ordering food and drinks has been built.
 
 ## Checklist:
-~~- roast and sell coffee (data on coffee sales)~~  
-~~-sell tea~~  
-~~sell pastries~~  
+- ~~roast and sell coffee (data on coffee sales)~~
+- ~~sell tea~~  
+- ~~sell pastries~~  
 - sell mugs, shirts, etc.  (merch if available)
 - take a book, leave a book (community library style), or used book store (thrift books and take donations)
-- sell plants (data on plant sales)
-
+- sell plants (data on plant sales)  
+  
 - create a website
-- build an app (mobile ordering food and drinks)
-
+- build an app (mobile ordering food and drinks)  
+  
 - python, R, powerBI, tableau
